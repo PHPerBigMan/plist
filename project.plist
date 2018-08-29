@@ -12,7 +12,7 @@
                     <string>software-package</string>
                     <key>url</key>
                     //这个地方写ipa地址
-                    <string>https://raw.githubusercontent.com/PHPerBigMan/plist/master/niugujie0.6.ipa</string>
+                    <string>https://github.com/PHPerBigMan/plist/blob/master/niugujie0.6.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
